@@ -1,49 +1,75 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=AC4EF7EE&lines=Hello+there!;I'+m+Isa...;Nice+to+meet+you!&center=true&size=30"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=AC4EF7EE&lines=Hello+there!;I'm+Isa...;Nice+to+meet+you!&center=true&size=30"/>
   </a>
 </h1> 
 
-<p align= "center">
-  👨‍💻Hi! I'm isabella, i'm an information systems engineering student. I love web development, specially backend. 
-  <br>
-  📝 i'm contantly learning new things. 
-  <br>
-  🌱i'm currently learning about technologies like nestjs and react.
+<p align="center">
+  👩‍💻 Hi! I'm <strong>Isabella</strong>, an Information Systems Engineering student based in Argentina.<br>
+  💻 I'm passionate about solving real-world problems through <strong>backend development</strong>.<br>
+  ☕ Currently working with <strong>Java</strong>, <strong>Spring Boot</strong>, and exploring <strong>NestJS</strong> and <strong>React</strong>.<br>
+  🚀 I love learning, building, and collaborating on meaningful projects — open to freelance and OSS contributions.<br>
 </p>
 
-<hr>
-<h2 align="center"> Languages & Frameworks & Tools </h2>
-<br>
+---
 
-<p align="center" >
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" style="margin-right": 10px; /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" style="margin-right"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" style="margin-right: 10px;" /></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" style="margin-right" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" style="margin-right: 10px;" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" style="margin-right: 10px;" /></a>
-  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" style="margin-right" /></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" style="margin-right" /></a>
-  <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" style="margin-right" /></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" style="margin-right" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" style="margin-right" /></a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" style="margin-right" /></a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" style="margin-right" /></a>
-  <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" style="margin-right" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL"  style="margin-right" /></a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" style="margin-right" /></a>
+<h2 align="center" style="color:#AC4EF7;">🚀 Languages & Tools</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" alt="C"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" alt="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" alt="VS Code"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" alt="Next.js"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" alt="React"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" alt="Webpack"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" alt="TailwindCSS"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" alt="CSS3"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" alt="NodeJS"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" alt="NestJS"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" alt="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" alt="Figma"/>
 </p>
-<br>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
+---
 
-<div align=center>
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=isaAlegre&theme=radical&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+<h2 align="center" style="color:#AC4EF7;">📊 GitHub Stats</h2>
+
+<div align="center">
+  <a href="https://github.com/isaAlegre">
+    <img width="390" src="https://streak-stats.demolab.com?user=isaAlegre&theme=radical&hide_border=true" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=IsaAlegre&show_icons=true&theme=radical&hide_border=true" />
+  <a href="https://github.com/isaAlegre">
+    <img width="390" src="https://github-readme-stats.vercel.app/api?username=isaAlegre&show_icons=true&theme=radical&hide_border=true" />
+  </a>
+  <br/>
+  <a href="https://github.com/isaAlegre">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaAlegre&layout=compact&theme=radical&hide_border=true" />
   </a>
 </div>
+
+<hr style="border: none; border-top: 1px solid #AC4EF7;" />
+
+<h2 align="center" style="color:#AC4EF7;">📈 Contribution Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isaAlegre&theme=tokyo-night" alt="GitHub Activity Graph" />
+</p>
+
+<hr style="border: none; border-top: 1px solid #AC4EF7;" />
+
+<h2 align="center" style="color:#AC4EF7;">💡 Want to collaborate?</h2>
+
+I'm open to working on:
+- Fullstack  web projects
+- Open source contributions
+- Internships or freelance opportunities  
+
+Feel free to reach out via [email](mailto:isabellaalegre84@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/isabella-alegre-05b14028b).
+
+---
+
