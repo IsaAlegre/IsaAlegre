@@ -41,14 +41,7 @@
 
 <div align="center">
   <a href="https://github.com/isaAlegre">
-    <img width="390" src="https://streak-stats.demolab.com?user=isaAlegre&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/isaAlegre">
-    <img width="390" src="https://github-readme-stats.vercel.app/api?username=isaAlegre&show_icons=true&theme=radical&hide_border=true" />
-  </a>
-  <br/>
-  <a href="https://github.com/isaAlegre">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaAlegre&layout=compact&theme=radical&hide_border=true" />
+    <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=IsaAlegre&theme=radical&hide_border=true"" />
   </a>
 </div>
 
