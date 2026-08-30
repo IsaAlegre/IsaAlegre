@@ -27,7 +27,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USERNAME: isaAlegre
         run: |
-          python scripts/generate_stats.py
+          python scripts/generate-stats.py
           ls -la stats.svg || echo "ERROR: stats.svg not created!"
       
       - name: Commit and push
