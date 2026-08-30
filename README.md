@@ -8,7 +8,7 @@
   👩‍💻 Hi! I'm <strong>Isabella</strong>, an Information Systems Engineering student based in Argentina.<br>
   💻 I'm passionate about solving real-world problems through <strong>backend development</strong>.<br>
   ☕ Currently working with <strong>Java</strong>, <strong>Spring Boot</strong>, and exploring <strong>NestJS</strong> and <strong>React</strong>.<br>
-  🚀 I love learning, building, and collaborating on meaningful projects — open to freelance and OSS contributions.<br>
+  🚀 I love learning, building, and collaborating on meaningful projects.<br>
 </p>
 
 ---
@@ -44,15 +44,6 @@
     <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=IsaAlegre&theme=radical&hide_border=true"" />
   </a>
 </div>
-
-<hr style="border: none; border-top: 1px solid #AC4EF7;" />
-
-<h2 align="center" style="color:#AC4EF7;">📈 Contribution Activity</h2>
-
-<div align="center">
-  <img src="./stats.svg" alt="GitHub Stats" />
-</div>
-
 
 <hr style="border: none; border-top: 1px solid #AC4EF7;" />
 
