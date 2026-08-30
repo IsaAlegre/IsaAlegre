@@ -23,15 +23,22 @@ jobs:
         run: pip install requests
       
       - name: Generate stats SVG
-        run: python scripts/generate-stats.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USERNAME: isaAlegre
+        run: |
+          python scripts/generate_stats.py
+          ls -la stats.svg || echo "ERROR: stats.svg not created!"
       
       - name: Commit and push
+        if: always()
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add stats.svg
-          git commit -m "Update GitHub stats" || echo "No changes"
-          git push
+          if [ -f stats.svg ]; then
+            git add stats.svg
+            git commit -m "Update GitHub stats" || echo "No changes"
+            git push
+          else
+            echo "stats.svg not found!"
+          fi
