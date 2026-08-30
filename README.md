@@ -49,9 +49,10 @@
 
 <h2 align="center" style="color:#AC4EF7;">📈 Contribution Activity</h2>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isaAlegre&theme=tokyo-night" alt="GitHub Activity Graph" />
-</p>
+<div align="center">
+  <img src="./stats.svg" alt="GitHub Stats" />
+</div>
+
 
 <hr style="border: none; border-top: 1px solid #AC4EF7;" />
 
